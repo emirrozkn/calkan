@@ -9,7 +9,7 @@
 - 🔰 Role & Permission Protection
 
 ## Version
-Current version: v0.1
+Current version: v0.2
 
 ## Author
 Made by emirrozkn
