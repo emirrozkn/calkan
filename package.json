@@ -1,0 +1,23 @@
+{
+  "name": "calkan",
+  "version": "0.1.0",
+  "description": "A professional Discord security bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "security",
+    "guard"
+  ],
+  "author": "emirrozkn",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.26.4",
+    "dotenv": "^17.4.2"
+  }
+}
