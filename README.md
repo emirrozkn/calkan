@@ -6,7 +6,7 @@
 
 *Cold. Precise. Unbreakable.*
 
-[![Version](https://img.shields.io/badge/version-v0.3-gold)]()
+[![Version](https://img.shields.io/badge/version-v0.4-gold)]()
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 [![Language](https://img.shields.io/badge/language-JavaScript-yellow)]()
 [![Languages](https://img.shields.io/badge/supports-10%20languages-green)]()
@@ -47,6 +47,7 @@ npm install
 | v0.1 | Bot connects and goes online |
 | v0.2 | Online announcement to log channel |
 | v0.3 | Spam detection and auto-timeout |
+| v0.4 | Professional embed logger with case numbers, DM warnings and repeat offender tracking |
 
 ---
 
