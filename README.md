@@ -6,7 +6,7 @@
 
 *Cold. Precise. Unbreakable.*
 
-[![Version](https://img.shields.io/badge/version-v0.4-gold)]()
+[![Version](https://img.shields.io/badge/version-v0.5-gold)]()
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 [![Language](https://img.shields.io/badge/language-JavaScript-yellow)]()
 [![Languages](https://img.shields.io/badge/supports-10%20languages-green)]()
@@ -30,6 +30,7 @@ Calkan is a professional Discord security bot built from scratch. Named after th
 - 🌍 **Multi-Language** — Supports 10 languages (see below)
 - 🗄️ **Database** — MongoDB powered, nothing is ever lost
 - ⚡ **Slash Commands** — Full moderation command suite
+- ⚙️ **Config System** — Toggle every feature on/off, customize thresholds and settings
 
 ### 🌍 Supported Languages
 English 🇬🇧 • Turkish 🇹🇷 • Mandarin 🇨🇳 • Hindi 🇮🇳 • Spanish 🇪🇸 • Arabic 🇸🇦 • French 🇫🇷 • Bengali 🇧🇩 • Portuguese 🇧🇷 • Russian 🇷🇺
@@ -48,6 +49,7 @@ npm install
 | v0.2 | Online announcement to log channel |
 | v0.3 | Spam detection and auto-timeout |
 | v0.4 | Professional embed logger with case numbers, DM warnings and repeat offender tracking |
+| v0.5 | Full auto-mod suite — 12 filters, phishing detection, config system, DM protection |
 
 ---
 
@@ -66,6 +68,7 @@ Calkan, sıfırdan geliştirilmiş profesyonel bir Discord güvenlik botudur. T�
 - 🌍 **Çoklu Dil** — 10 dil desteği
 - 🗄️ **Veritabanı** — MongoDB destekli, hiçbir şey kaybolmaz
 - ⚡ **Slash Komutları** — Tam moderasyon komut seti
+- ⚙️ **Yapılandırma Sistemi** — Her özelliği açıp kapatın, eşikleri ve ayarları özelleştirin
 
 ### 🌍 Desteklenen Diller
 İngilizce 🇬🇧 • Türkçe 🇹🇷 • Mandarin 🇨🇳 • Hintçe 🇮🇳 • İspanyolca 🇪🇸 • Arapça 🇸🇦 • Fransızca 🇫🇷 • Bengalce 🇧🇩 • Portekizce 🇧🇷 • Rusça 🇷🇺
